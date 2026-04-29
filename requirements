@@ -1,0 +1,2 @@
+# No mandatory third-party dependency.
+# Optional: use OPENAI_API_KEY with OpenAI-compatible chat completions endpoint.
